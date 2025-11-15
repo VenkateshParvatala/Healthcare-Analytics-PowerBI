@@ -1,4 +1,5 @@
 # 📊 Healthcare Analytics Dashboard – Power BI Project
+![Dashboard Preview](https://github.com/VenkateshParvatala/Healthcare-Analytics-PowerBI/blob/main/Health%20Care%20Analytics.png?raw=true)
 
 ## 🏥 Project Overview
 
